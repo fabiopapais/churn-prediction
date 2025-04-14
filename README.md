@@ -15,4 +15,4 @@ We used Optuna + cross validation for most of the algorithms, reaching a 0.586 K
 
 ![results](results.webp)
 
-Contributors: [Fábio Papais]([git](https://github.com/fabiopapais)), [Jaubert Gualberto](https://github.com/jaubertgualberto) and [Silvânio Assunção](https://github.com/silvanio45)
+Contributors: [Fábio Papais](https://github.com/fabiopapais), [Jaubert Gualberto](https://github.com/jaubertgualberto) and [Silvânio Assunção](https://github.com/silvanio45)
