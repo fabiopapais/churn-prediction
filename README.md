@@ -14,3 +14,5 @@ The notebook includes data preparation, data separation, training and tests with
 We used Optuna + cross validation for most of the algorithms, reaching a 0.586 KS statistic and 0.86 AUC ROC using TabPFN:
 
 ![results](results.webp)
+
+Contributors: [Fábio Papais]([git](https://github.com/fabiopapais)), [Jaubert Gualberto](https://github.com/jaubertgualberto) and [Silvânio Assunção](https://github.com/silvanio45)
